@@ -8,13 +8,13 @@ Belajar Dasar Git dengan GitHub (Progres 100%)<br>
 * Belajar GitHub dengan studi kasus.<br>
 * Belajar Kolaborasi Dengan Tim di GitHub<br>
 * Belajar Menggunakan GitHub Sebagai Portofolio<br>
-Berikut Sertikatnya : [Sertifikat](https://www.dicoding.com/certificates/MRZM6KJ9RPYQ)
+Berikut Sertifikatnya : [Sertifikat](https://www.dicoding.com/certificates/MRZM6KJ9RPYQ)<br>
 
 **16 Agustus 2025**<br>
 Belajar Programming Logic 101 (Progres 100%)<br>
 * Belajar Gerbang Logika dan jenis jenisnya.<br>
 * Belajar Dasar metode Computational Thinking.<br>
-Berikut Sertikatnya : [Sertifikat](https://www.dicoding.com/certificates/JMZVV2VJRZN9)
+Berikut Sertifikatnya : [Sertifikat](https://www.dicoding.com/certificates/JMZVV2VJRZN9)<br>
 
 **16 Agustus 2025**<br>
 Belajar Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)<br>
@@ -23,4 +23,4 @@ Belajar Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)<br>
 * Belajar Mengerti Konsep Dasar Pemrograman.<br>
 * Belajar Modifikasi Aplikasi Perangkat Lunak.<br>
 * Belajar Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak.<br>
-Berikut Sertikatnya : [Sertifikat](https://www.dicoding.com/certificates/NVP7J1J7VXR0)
+Berikut Sertifikatnya : [Sertifikat](https://www.dicoding.com/certificates/NVP7J1J7VXR0)<br>
