@@ -24,3 +24,7 @@ Belajar Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)<br>
 * Belajar Modifikasi Aplikasi Perangkat Lunak.<br>
 * Belajar Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak.<br>
 Berikut Sertifikatnya : [Sertifikat](https://www.dicoding.com/certificates/NVP7J1J7VXR0)<br>
+
+**21 Agustus 2025**<br>
+Belajar Dasar Pemrograman Web (Progres 26%)<br>
+* Belajar Pengenalan dan Pendalaman HTML.<br>
